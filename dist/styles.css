@@ -19,3 +19,5 @@
 @media(max-width:700px){.reference-room{display:block;padding:65px 7vw}.reference-heading{margin-bottom:35px}.reference-body blockquote{font-size:27px}.technical-overview{margin-top:40px}.technical-overview summary{font-size:25px}.work-notes{display:block;padding:55px 7vw 65px}.artist-note{border-left:0;border-top:1px solid var(--line);padding:35px 0 0;margin-top:35px}.work-notes h2{font-size:34px}}
 
 .text-link span{font-family:Arial,sans-serif}
+
+.export-room{padding:80px 7vw;display:grid;grid-template-columns:1.4fr 1fr;gap:60px;align-items:center;border-top:1px solid var(--line);max-width:1400px;margin:auto}.export-room h2{font-size:clamp(35px,4vw,55px);margin-bottom:25px}.export-room p{font-size:14px;color:var(--muted);max-width:520px}.export-room .export-meta{font-size:12px;color:var(--gold)}.export-button{display:inline-flex;align-items:center;gap:20px;background:var(--ivory);color:var(--night);padding:18px 24px;font-size:12px;letter-spacing:.05em}.export-room .export-help{font-size:12px;margin-top:22px}.footer-links{display:flex;flex-wrap:wrap;gap:20px}@media(max-width:700px){.export-room{display:block;padding:55px 7vw}.export-button{margin-top:20px}}
